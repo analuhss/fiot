@@ -1,0 +1,7 @@
+.env
+
+sistemadexp.db
+
+__pycache__
+
+*.pyc
